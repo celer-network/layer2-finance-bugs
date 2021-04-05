@@ -13,7 +13,7 @@ Ropsten contract: [81ab95d9eef47a9158bbd81982e0d3d3134dd952](https://ropsten.eth
 
 ### 2. Go to the issues tab and create new issues
 
-Please follow the template belwo in your bug report
+Please follow the template below in your bug report
 
 #### Issue summary
 ```
