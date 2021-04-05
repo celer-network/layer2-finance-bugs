@@ -15,7 +15,7 @@ Ropsten contract: [81ab95d9eef47a9158bbd81982e0d3d3134dd952](https://ropsten.eth
 
 Please include following information in your bug report
 
-- **Issue summary**.
+- **Issue short summary**.
 - **Basic information**, such as ETH account used to interact with the system 
 - **Steps to reproduce**, be as specific as possible
 - **What was expected to happen**.
