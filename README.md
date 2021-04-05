@@ -27,7 +27,7 @@ ETH account used to interact with the system
 UTC time when issue found
 ```
 
-#### Steps to reproduce**
+#### Steps to reproduce
 ```
 Be as specific as possible
 ```
