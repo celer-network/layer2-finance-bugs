@@ -13,10 +13,25 @@ Ropsten contract: [81ab95d9eef47a9158bbd81982e0d3d3134dd952](https://ropsten.eth
 
 ### 2. Go to the issues tab and create new issues
 
-Please include following information in your bug report
+Please follow the template belwo in your bug report
 
-- **Issue short summary**.
-- **Basic information**, such as ETH account used to interact with the system 
-- **Steps to reproduce**, be as specific as possible
-- **What was expected to happen**.
-- **What happend instead**.
+#### Issue summary
+```
+The type of issue, e.g. UI/UX, cannot submit request
+```
+
+#### Basic information
+```
+Example: 
+ETH account used to interact with the system
+UTC time when issue found
+```
+
+#### Steps to reproduce**
+```
+Be as specific as possible
+```
+
+#### What was expected to happen
+
+#### What happend instead
