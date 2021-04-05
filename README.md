@@ -3,8 +3,9 @@ layer2 finance bug reporting
 
 This repo is a dumping ground for any issues users might find when interacting with Layer2.Finanace
 
-Current testne:t https://ropsten.layer2.finance/
-Ropsten cntract: [81ab95d9eef47a9158bbd81982e0d3d3134dd952](https://ropsten.etherscan.io/address/0x81ab95d9eef47a9158bbd81982e0d3d3134dd952)
+Current testnet: https://ropsten.layer2.finance/
+
+Ropsten contract: [81ab95d9eef47a9158bbd81982e0d3d3134dd952](https://ropsten.etherscan.io/address/0x81ab95d9eef47a9158bbd81982e0d3d3134dd952)
 
 # Instructions for testers
 
