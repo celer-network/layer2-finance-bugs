@@ -39,3 +39,14 @@ Be as specific as possible
 #### What happend instead
 ```
 ```
+
+# Bug Bounty
+If you identify any bugs when using layer2.finance, please report by creating issues in this repo. If this is a Critical or High severity issue, please reach out to developer@celer.network directly or reach out to any of our telegram admin. The person who first reports a bug according to our reporting guidelines and the bug is verified by our team, will receive a bounty relative to the severity of the bug.
+
+- Critical issue: Total fund loss with no recovery. Prize: $50,000 
+- High severity issue: Persisted and unrecoverable system halt without fund loss. Prize: $10,000
+- Low serverity issue: UI information display error or UI glitches (after refresh) that affects intended use. Prize: $100.
+
+
+
+
