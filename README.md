@@ -43,7 +43,6 @@ If you identify any bugs when using layer2.finance, please report by creating is
 
 - Critical issue: Total fund loss with no recovery. Prize: $50,000 
 - High severity issue: Persisted and unrecoverable system halt without fund loss. Prize: $10,000
-- Low serverity issue: UI information display error or UI glitches (after refresh) that affects intended use. Prize: $100.
 
 
 
