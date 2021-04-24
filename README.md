@@ -4,6 +4,7 @@ layer2 finance bug reporting
 This repo is a dumping ground for any issues users might find when interacting with Layer2.Finanace
 
 Mainnet contract: [0xf86fd6735f88d5b6aa709b357ad5be22cedf1a05](https://etherscan.io/address/0xf86fd6735f88d5b6aa709b357ad5be22cedf1a05)
+
 Mainnet app: https://app.l2.finance/
 
 # Instructions for testers
